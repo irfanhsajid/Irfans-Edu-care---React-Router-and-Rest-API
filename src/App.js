@@ -8,6 +8,7 @@ import Services from './Components/Services/Services';
 import Error from './Components/Error404/Error';
 import Contacts from './Components/Contacts/Contacts';
 import About from './Components/About Us/About';
+import Blogs from './Components/Blogs/Blogs';
 function App() {
   return (
     <div className="App">
@@ -22,6 +23,9 @@ function App() {
           </Route>
           <Route exact path="/services">
             <Services></Services>
+          </Route>
+          <Route exact path="/blogs">
+            <Blogs></Blogs>
           </Route>
           <Route exact path="/about">
             <About></About>
