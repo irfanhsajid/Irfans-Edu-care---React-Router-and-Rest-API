@@ -1,0 +1,30 @@
+.banner-container {
+    background-image: url("https://www.viewsonic.com/library/wp-content/uploads/2020/02/LB0104-Benefits-of-Technology-in-the-Classroom-696x392.jpg"),
+    radial-gradient(rgba(9, 25, 116, 0.692), rgba(11, 11, 184, 0.712));
+    height: 680px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+  }
+ .title{
+    position: absolute;
+    margin-top: 10%;
+    text-align: center;
+ }
+ .heading{
+    color:whitesmoke;
+    font-size: 60px;
+ }
+.discription{
+     color: #cfd9f0;
+     font-size: 20px;
+ }
+ .meet-btn{
+     color: #3C43D6;
+     font-weight: 500;
+ }

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.NavBar-Container{
+    background-color:white ;
+}
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #104CBB;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: #221f22;
+    transition: all .3s ease-in;
+  }
+ .logo-name{
+     color: #104CBB;
+    font-family: 'Pacifico', cursive;
+ }
+ .contact-btn{
+   background-color:#3C45D1;
+   color: white;
+ }
+ .contact-btn:hover{
+   background-color: black;
+   color: white;
+   transition: all .3s ease-in;
+ }

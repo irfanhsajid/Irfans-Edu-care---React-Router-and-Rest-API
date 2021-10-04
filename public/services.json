@@ -1,0 +1,90 @@
+[
+    {
+        "id": "Mat215",
+        "title": "Introduction to Linear Algebra",
+        "level": "Beginner",
+        "students": "100+",
+        "Instructor": "Mahbub Alam",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Linear_subspaces_with_shading.svg/1200px-Linear_subspaces_with_shading.svg.png"
+    },
+    {
+        "id": "CS115",
+        "title": "\"C\"-The Mother Language",
+        "level": "Beginner",
+        "students": "200+",
+        "teacher": "Tasnim Javed",
+        "img": "https://mk0setscholarsn9sko6.kinstacdn.com/wp-content/uploads/2020/07/C-Programming.jpg"
+    },
+    {
+        "id": "CS215",
+        "title": "Java Crash Course",
+        "level": "Advanced",
+        "students": "150+",
+        "teacher": "Safwan Bin Haq",
+        "img": "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/java-emergency-upgrade-installers-showcase_image-2-p-2057.jpg"
+    },
+    {
+        "id": "Eng101",
+        "title": "Public Speaking Essentials",
+        "level": "Intermediate",
+        "students": "150+",
+        "teacher": "Shanila Tasneem",
+        "img": "https://edexec.co.uk/wp-content/uploads/2020/05/iStock-1031459248-678x381.jpg"
+    },
+    {
+        "id": "CS301",
+        "title": "Play With Python",
+        "level": "Intermediate",
+        "students": "250+",
+        "teacher": "Jhanker Pro",
+        "img": "https://miro.medium.com/max/1400/1*ueWmI48uuShON-hX7LwI0w.png"
+    },
+    {
+        "id": "Che101",
+        "title": "Organic Chemistry",
+        "level": "Beginner",
+        "students": "130+",
+        "teacher": "Zawad Iqbal",
+        "img": "https://c4.wallpaperflare.com/wallpaper/22/728/16/technology-physics-and-chemistry-chemistry-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id": "CS315",
+        "title": "Discrete Mathematics",
+        "level": "Advanced",
+        "students": "100+",
+        "teacher": "Xavid Wakil",
+        "img": "https://eatingdisordersreview.com/wp-content/uploads/2019/02/algorithm.jpeg"
+    },
+    {
+        "id": "CS400",
+        "title": "Basics Of AI",
+        "level": "Advanced",
+        "students": "140+",
+        "teacher": "Nabil Wakil",
+        "img": "https://cdn.majorel.com/wp-content/uploads/2019/02/01135532/AdobeStock_242252312_cropped-1024x591.jpg"
+    },
+    {
+        "id": "phy107",
+        "title": "Beauty Of Physics",
+        "level": "Beginner",
+        "students": "300+",
+        "teacher": "Mehedi Haq",
+        "img": "https://scx2.b-cdn.net/gfx/news/2019/physics.jpg"
+    },
+    {
+        "id": "Bio101",
+        "title": "Bios & Logos -Biology",
+        "level": "Beginner",
+        "students": "300+",
+        "teacher": "Mahzabin Haq",
+        "img": "https://cdn.pixabay.com/photo/2018/07/15/10/44/dna-3539309__480.jpg"
+    },
+    {
+        "id": "CS501",
+        "title": "JavaScript Fundamentals",
+        "level": "Beginner",
+        "students": "500+",
+        "teacher": "Jhankar Bro",
+        "img": "https://www.thoughtco.com/thmb/_P_IpRezcdFY2uZZNjKtLpyj2zA=/1500x1000/filters:fill(auto,1)/JavaScript-58acbb8a3df78c345bad32c2.jpg"
+    }
+]
