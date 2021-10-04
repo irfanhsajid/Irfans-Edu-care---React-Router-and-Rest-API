@@ -6,7 +6,7 @@
 .items {
     list-style: none;
     margin-right: 30px;
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 500;
     color: #104CBB;
     cursor: pointer;
@@ -21,6 +21,7 @@
      color: #104CBB;
     font-family: 'Pacifico', cursive;
  }
+ 
  .contact-btn{
    background-color:#3C45D1;
    color: white;

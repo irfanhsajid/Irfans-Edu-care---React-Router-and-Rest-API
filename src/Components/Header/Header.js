@@ -5,14 +5,14 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="NavBar-Container py-4">
-            <div className="container align-items-center">
+            <div className="container ">
                 <div className="row">
-                    <div className="col-md-2">
+                    <div className="col-md-3">
                         <div className="logo-name">
                             <h2>Irfans Care</h2>
                         </div>
                     </div>
-                    <div className="col-md-10">
+                    <div className="col-md-9">
                         <div className="menu-container ">
                             <ul className="d-flex align-items-end justify-content-end">
                                 <Link to="/home" className="items">

@@ -1,5 +1,29 @@
 [
     {
+        "id": "CS400",
+        "title": "Basics Of AI",
+        "level": "Advanced",
+        "students": "140+",
+        "teacher": "Nabil Wakil",
+        "img": "https://cdn.majorel.com/wp-content/uploads/2019/02/01135532/AdobeStock_242252312_cropped-1024x591.jpg"
+    },
+    {
+        "id": "phy107",
+        "title": "Beauty Of Physics",
+        "level": "Beginner",
+        "students": "300+",
+        "teacher": "Mehedi Haq",
+        "img": "https://scx2.b-cdn.net/gfx/news/2019/physics.jpg"
+    },
+    {
+        "id": "Che101",
+        "title": "Organic Chemistry",
+        "level": "Beginner",
+        "students": "130+",
+        "teacher": "Zawad Iqbal",
+        "img": "https://c4.wallpaperflare.com/wallpaper/22/728/16/technology-physics-and-chemistry-chemistry-hd-wallpaper-preview.jpg"
+    },
+    {
         "id": "Mat215",
         "title": "Introduction to Linear Algebra",
         "level": "Beginner",
@@ -40,36 +64,12 @@
         "img": "https://miro.medium.com/max/1400/1*ueWmI48uuShON-hX7LwI0w.png"
     },
     {
-        "id": "Che101",
-        "title": "Organic Chemistry",
-        "level": "Beginner",
-        "students": "130+",
-        "teacher": "Zawad Iqbal",
-        "img": "https://c4.wallpaperflare.com/wallpaper/22/728/16/technology-physics-and-chemistry-chemistry-hd-wallpaper-preview.jpg"
-    },
-    {
         "id": "CS315",
         "title": "Discrete Mathematics",
         "level": "Advanced",
         "students": "100+",
         "teacher": "Xavid Wakil",
         "img": "https://eatingdisordersreview.com/wp-content/uploads/2019/02/algorithm.jpeg"
-    },
-    {
-        "id": "CS400",
-        "title": "Basics Of AI",
-        "level": "Advanced",
-        "students": "140+",
-        "teacher": "Nabil Wakil",
-        "img": "https://cdn.majorel.com/wp-content/uploads/2019/02/01135532/AdobeStock_242252312_cropped-1024x591.jpg"
-    },
-    {
-        "id": "phy107",
-        "title": "Beauty Of Physics",
-        "level": "Beginner",
-        "students": "300+",
-        "teacher": "Mehedi Haq",
-        "img": "https://scx2.b-cdn.net/gfx/news/2019/physics.jpg"
     },
     {
         "id": "Bio101",

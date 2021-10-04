@@ -1,13 +1,40 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 const Services = () => {
+    const [services, setServices] = useState([]);
+    useEffect(() => {
+        fetch('./services.json')
+            .then(res => res.json())
+            .then(data => setServices(data))
+    }, []);
     return (
         <div className="container">
-            <h1 className="text-danger">We are good in SERVICE</h1>
-            <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sit doloribus natus cum minima a tenetur error impedit unde earum placeat, excepturi veniam porro numquam repellendus laboriosam!</p>
-            <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias dolores vitae adipisci eveniet facere eligendi animi iure quia, minus mollitia similique accusantium aspernatur harum odio ipsam repellat veniam totam sit quidem asperiores voluptatibus. Iusto doloremque quam et dolores rem sequi enim eveniet laborum, fuga voluptate. Aliquid mollitia accusamus et quisquam! Eius, est ipsa. Alias similique minus beatae aut nostrum? Nulla mollitia voluptatem corrupti a quas dignissimos. Odio pariatur expedita tenetur ipsa, itaque consectetur. Cum dicta, quae est consequatur reprehenderit aspernatur enim harum quia temporibus repellendus doloremque officiis ipsum corporis ducimus inventore corrupti vitae quos, ea maxime quaerat pariatur ab optio.
-            </p>
+            <div className="text-center my-4">
+                <h1>A broad selection of courses</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt voluptatem quas est asperiores deleniti itaque sit, beatae vel reiciendis qui.</p>
+            </div>
+            <div className="row">
+                {
+                    services.map(service =>
+
+
+                        <div className="col-1 col-md-4 g-4">
+                            <div className="card h-100 card-container">
+                                <img src={service.img} alt="services img" className="card-img" />
+                                <div className="card-body">
+                                    <h3 className="card-title">{service.title}</h3>
+                                    <span className="card-text">
+                                        <h5>Teacher: {service.teacher}</h5>
+                                        <p>Category: {service.level}</p>
+                                        <p>Total {service.students} Students Enrolled</p>
+                                    </span>
+                                    <button className="border-0 rounded-2 px-3 py-1 enroll-btn">Enroll Now</button>
+                                </div>
+                            </div>
+                        </div>
+                    )
+                }
+            </div>
         </div>
     );
 };
