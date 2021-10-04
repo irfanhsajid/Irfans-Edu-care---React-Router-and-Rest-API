@@ -11,7 +11,7 @@ const Service = (props) => {
                     <span className="card-text">
                         <h5>Teacher: {teacher}</h5>
                         <p>Category: {level}</p>
-                        <p>Total {students} Students Enrolled</p>
+                        <p>Total {students} Students Joined</p>
                     </span>
                     <button className="border-0 rounded-2 px-3 py-1 enroll-btn">Enroll Now</button>
                 </div>

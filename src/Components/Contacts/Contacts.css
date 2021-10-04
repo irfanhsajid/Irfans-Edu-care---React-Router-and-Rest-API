@@ -1,0 +1,7 @@
+.contacts{
+    height: 100vh;
+
+}
+.contacts div{
+    box-shadow: 1px 1px 20px 2px red;
+}

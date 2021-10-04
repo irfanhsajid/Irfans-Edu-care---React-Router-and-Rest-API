@@ -2,10 +2,10 @@ import React from 'react';
 import './error.css'
 const Error = () => {
     return (
-        <div className=" error my-5 container p-5 text-center rounded-3">
-            <div className="error-text">
-                <h1>Eror 404!!</h1>
-                <h2 >Sorry, the page you're looking for is not found!</h2>
+        <div className="container contacts d-flex justify-content-center align-items-center">
+            <div className="text-center  text-danger px-5 py-3 rounded-3">
+                <h1>Error 404!!</h1>
+                <h3>The page you looking for is not available.</h3>
             </div>
         </div>
     );
