@@ -1,7 +1,14 @@
 .error{
     height: 100vh;
 }
+.error div{
+    box-shadow: 2px 2px 15px 5px #eecdcd;
+    height: 300px;
+    text-align: center;
+   
+    margin: 0 auto;
+}
 .error-text{
-    color: brown;
+    color: #ac0909;
     
 }

@@ -28,8 +28,8 @@
         "title": "Introduction to Linear Algebra",
         "level": "Beginner",
         "students": "100+",
-        "Instructor": "Mahbub Alam",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Linear_subspaces_with_shading.svg/1200px-Linear_subspaces_with_shading.svg.png"
+        "teacher": "Mahbub Alam",
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/7b2ecb24-2874-402b-ad86-473e246cae0c-aa0d4ca8dc73.small.png"
     },
     {
         "id": "CS115",
@@ -45,7 +45,7 @@
         "level": "Advanced",
         "students": "150+",
         "teacher": "Safwan Bin Haq",
-        "img": "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/java-emergency-upgrade-installers-showcase_image-2-p-2057.jpg"
+        "img": "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
     },
     {
         "id": "Eng101",
@@ -69,7 +69,7 @@
         "level": "Advanced",
         "students": "100+",
         "teacher": "Xavid Wakil",
-        "img": "https://eatingdisordersreview.com/wp-content/uploads/2019/02/algorithm.jpeg"
+        "img": "https://lastmomenttuitions.com/wp-content/uploads/2019/08/dsc-mths.png"
     },
     {
         "id": "Bio101",
